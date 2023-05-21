@@ -18,5 +18,8 @@
     <ClCompile Include="SB_CPP_PR_14.4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SB_CPP_PR_15.4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
